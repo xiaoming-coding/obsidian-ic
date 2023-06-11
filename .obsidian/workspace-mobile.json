@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "72171b9932806da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bae2591996b92b7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2144234610fd9aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "demo/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02ce9eaf4fa0ccc5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a14d6278c4925d5c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8f8813d4750f8686",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f8430f03bcc5431d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ebad1db188e3dc26",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3eaf697f6f26433c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dec8ee55d7b5db78",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "demo/未命名.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e4c2a45b788db119",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "demo/未命名.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4e2ef51dcf74a52e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "demo/未命名.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "2144234610fd9aaf",
+  "lastOpenFiles": [
+    "demo/demo.md",
+    "demo/未命名.md",
+    "未命名.md",
+    "demo",
+    "demo.md",
+    "蝙蝠/代码功能记录.md"
+  ]
+}
