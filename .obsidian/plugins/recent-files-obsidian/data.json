@@ -1,0 +1,27 @@
+{
+  "recentFiles": [
+    {
+      "basename": "demo",
+      "path": "demo/demo.md"
+    },
+    {
+      "basename": "命令记录",
+      "path": "git同步笔记/命令记录.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "demo/未命名 1.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "demo/未命名.md"
+    },
+    {
+      "basename": "代码功能记录",
+      "path": "蝙蝠/代码功能记录.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
