@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "demo/demo.md",
+                "file": "demo/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "demo/demo.md",
+            "file": "demo/未命名.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "demo/demo.md",
+            "file": "demo/未命名.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "demo/demo.md"
+            "file": "demo/未命名.md"
           }
         }
       }
@@ -142,8 +142,8 @@
   },
   "active": "2144234610fd9aaf",
   "lastOpenFiles": [
-    "git同步笔记/命令记录.md",
     "demo/未命名 1.md",
+    "git同步笔记/命令记录.md",
     "demo/demo.md",
     "蝙蝠/代码功能记录.md",
     "demo/未命名.md",
