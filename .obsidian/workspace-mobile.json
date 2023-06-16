@@ -125,28 +125,43 @@
             "file": "git同步笔记/命令记录.md"
           }
         }
+      },
+      {
+        "id": "7dedc99151fdc8fc",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "notion-like-tables:Create Notion-Like table": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "a14d6278c4925d5c",
   "lastOpenFiles": [
+    "Untitled.table",
+    "README1.md",
+    "任务.md",
+    "demo/demo.md",
+    "计划/6.15.md",
+    "蝙蝠/代码功能记录.md",
+    "日记/2023-06-13.md",
     "demo/未命名 1.md",
     "git同步笔记/命令记录.md",
-    "demo/demo.md",
     "demo/未命名.md",
-    "蝙蝠/代码功能记录.md",
     "未命名.md",
     "demo",
     "demo.md"
